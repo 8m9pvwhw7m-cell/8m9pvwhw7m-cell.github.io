@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-b13bb91f5a6311b6.js","566","static/chunks/app/personal-data/page-95e4b15f733cad58.js"],""]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+7:X
+15:X
+15:C
+0:{"buildId":"vWbOrXienqicRFYYdX6dC","data":[{"rsc":["$","$1","c",{"children":[[["$","main",null,{"id":"main","className":"legal-page","children":[["$","p",null,{"className":"eyebrow","children":"KK / ПРАВОВЫЕ ДОКУМЕНТЫ"}],["$","h1",null,{"children":"Обработка данных при прямом обращении"}],["$","p",null,{"className":"legal-draft","children":"Редакция от 7 октября 2026 года — прямая связь без форм"}],[["$","section","Формы отключены",{"children":[["$","h2",null,{"children":"Формы отключены"}],["$","p",null,{"children":"Сайт больше не собирает заявки через формы и не запрашивает согласие checkbox. Эта страница не является новой формой согласия и не подменяет согласия, полученные раньше."}]]}],["$","section","Как связаться",{"children":[["$","h2",null,{"children":"Как связаться"}],["$","p",null,{"children":"В окне «Обсудим вашу задачу» доступны звонок на +7 958 831-61-80 и письмо на kirill.89588316180@gmail.com. Передача вашего номера при звонке и содержание письма определяются вашим приложением и сервисом связи, а не серверной формой сайта. Звонок и отправку письма совершает сам посетитель."}]]}],["$","section","Рассмотрение обращения",{"children":[["$","h2",null,{"children":"Рассмотрение обращения"}],["$","p",null,{"children":"Кузнецов Кирилл Аделович, физическое лицо. Адрес для обращений: 108842, г. Москва, г. Троицк, ул. Городская, д. 20, офис 1. Телефон: +7 958 831-61-80. Email: kirill.89588316180@gmail.com. Полученные напрямую сведения используются для ответа и обсуждения вашей задачи. Основание и необходимый состав данных для дальнейшего сопровождения определяются отдельно с учётом договора и законодательства. Обращение не даёт автоматического разрешения на рекламные сообщения или передачу контактов неопределённым получателям."}]]}],["$","section","Прежние данные и отзыв",{"children":[["$","h2",null,{"children":"Прежние данные и отзыв"}],["$","p",null,{"children":"Ранее сохранённые записи Neon и сообщения Telegram не уничтожались автоматически, но сайт к ним больше не подключается. Для отзыва прежнего согласия, уточнения или удаления напишите на kirill.89588316180@gmail.com. Порядок рассмотрения обращения и сведения о технической инфраструктуре описаны в Политике конфиденциальности."}]]}]],["$","nav",null,{"aria-label":"Документы","children":[["$","$L2",null,{"href":"/privacy/","children":"Политика конфиденциальности"}],["$","$L2",null,{"href":"/","children":"На главную"}]]}]]}],["$","footer",null,{"className":"footer site-footer","children":[["$","div",null,{"children":[["$","span",null,{"children":"KK / KIRILL KUZNETSOV"}],["$","span",null,{"children":"Москва и Новая Москва"}]]}],["$","nav",null,{"aria-label":"Правовые документы","children":[["$","$L2",null,{"href":"/privacy/","children":"Политика конфиденциальности"}],["$","$L2",null,{"href":"/personal-data/","children":"Обработка данных при обращении"}]]}],["$","p",null,{"className":"owner-details","children":"Владелец сайта: Кузнецов Кирилл Аделович, физическое лицо. Адрес для обращений: 108842, г. Москва, г. Троицк, ул. Городская, д. 20, офис 1. Телефон: +7 958 831-61-80. Email: kirill.89588316180@gmail.com."}]]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Обработка данных при прямом обращении | Кирилл Кузнецов"}],["$","meta","1",{"name":"description","content":"Продажа и покупка недвижимости в Москве и Новой Москве. Оценка, переговоры и полное сопровождение сделки."}],["$","link","2",{"rel":"canonical","href":"https://kuznetsov-realty.ru/personal-data/"}],["$","meta","3",{"property":"og:title","content":"Кирилл Кузнецов — недвижимость"}],["$","meta","4",{"property":"og:description","content":"Продажа и покупка недвижимости в Москве и Новой Москве."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"isPartial":"$@12","staleTime":"$7","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$7","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[6869,[],"IconMark"]
+1b:I[7121,[],""]
+1c:I[4581,[],""]
+1e:I[7895,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","895","static/chunks/895-f8a6e5faf14c0938.js","177","static/chunks/app/layout-acacb69ae95368d3.js"],"SiteShell"]
+:HL["/_next/static/css/d2d8113ff1849479.css","style"]
+5:null
+a:["$","meta","5",{"property":"og:locale","content":"ru_RU"}]
+b:["$","meta","6",{"property":"og:type","content":"website"}]
+c:["$","meta","7",{"name":"twitter:card","content":"summary"}]
+d:["$","meta","8",{"name":"twitter:title","content":"Кирилл Кузнецов — недвижимость"}]
+e:["$","meta","9",{"name":"twitter:description","content":"Продажа и покупка недвижимости в Москве и Новой Москве."}]
+f:["$","link","10",{"rel":"icon","href":"/favicon.svg"}]
+10:["$","$L1a","11",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+1d:["$","style",null,{"children":".heading-mask > span,.home-line > span{transform:none!important}.hero-copy .cta-group,.header{opacity:1!important}"}]
+16:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2d8113ff1849479.css","precedence":"next"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","className":"__variable_37fb3b","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$1d"}],["$","$L1e",null,{"children":["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}],"notFound":[["$","main",null,{"id":"main","className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Такой страницы нет."}],["$","$L2",null,{"className":"button primary","href":"/","children":"На главную"}]]}],[]]}]}]]}]}]]}]
+7:300
+19:true
+7:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+6:"$undefined"

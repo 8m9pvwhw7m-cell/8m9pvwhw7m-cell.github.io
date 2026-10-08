@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+3:I[7895,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","895","static/chunks/895-f8a6e5faf14c0938.js","177","static/chunks/app/layout-acacb69ae95368d3.js"],"SiteShell"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[8500,["500","static/chunks/500-b13bb91f5a6311b6.js","345","static/chunks/app/not-found-95e4b15f733cad58.js"],""]
+7:I[6701,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","772","static/chunks/772-7a226614902f98ac.js","742","static/chunks/742-56a2b5430be9da53.js","895","static/chunks/895-f8a6e5faf14c0938.js","10","static/chunks/10-35926e97f0ed7e3f.js","499","static/chunks/app/sell/page-a9224736469245c2.js"],"SellStory"]
+8:I[484,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+c:I[484,[],"ViewportBoundary"]
+e:I[484,[],"MetadataBoundary"]
+10:I[7123,[],"default",1]
+:HL["/_next/static/media/372704ff403efaf1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c15bba8be3c19b5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/d2d8113ff1849479.css","style"]
+2:["$","style",null,{"children":".heading-mask > span,.home-line > span{transform:none!important}.hero-copy .cta-group,.header{opacity:1!important}"}]
+b:X
+0:{"P":null,"c":["","sell",""],"q":"","i":false,"f":[[["",{"children":["sell",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2d8113ff1849479.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","className":"__variable_37fb3b","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Такой страницы нет."}],["$","$L6",null,{"className":"button primary","href":"/","children":"На главную"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L7",null,{}],null,["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,"$b"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vWbOrXienqicRFYYdX6dC"}
+b:C
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[6869,[],"IconMark"]
+a:null
+f:[["$","title","0",{"children":"Продать квартиру | Кирилл Кузнецов"}],["$","meta","1",{"name":"description","content":"Профессиональная оценка, сильная подача и полное сопровождение продажи квартиры в Москве и Новой Москве."}],["$","link","2",{"rel":"canonical","href":"https://kuznetsov-realty.ru/sell/"}],["$","meta","3",{"property":"og:title","content":"Продать квартиру — Кирилл Кузнецов"}],["$","meta","4",{"property":"og:description","content":"Оценка, маркетинг и полное сопровождение продажи недвижимости."}],["$","meta","5",{"property":"og:url","content":"https://kuznetsov-realty.ru/sell/"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Продать квартиру — Кирилл Кузнецов"}],["$","meta","8",{"name":"twitter:description","content":"Оценка, маркетинг и полное сопровождение продажи недвижимости."}],["$","link","9",{"rel":"icon","href":"/favicon.svg"}],["$","$L11","10",{}]]

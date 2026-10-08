@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+3:I[7895,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","895","static/chunks/895-f8a6e5faf14c0938.js","177","static/chunks/app/layout-acacb69ae95368d3.js"],"SiteShell"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[8500,["500","static/chunks/500-b13bb91f5a6311b6.js","345","static/chunks/app/not-found-95e4b15f733cad58.js"],""]
+7:I[484,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[484,[],"ViewportBoundary"]
+d:I[484,[],"MetadataBoundary"]
+f:I[7123,[],"default",1]
+:HL["/_next/static/media/372704ff403efaf1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7c15bba8be3c19b5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/d2d8113ff1849479.css","style"]
+2:["$","style",null,{"children":".heading-mask > span,.home-line > span{transform:none!important}.hero-copy .cta-group,.header{opacity:1!important}"}]
+a:X
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"f":[[["",{"children":["_not-found",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2d8113ff1849479.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","className":"__variable_37fb3b","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Такой страницы нет."}],["$","$L6",null,{"className":"button primary","href":"/","children":"На главную"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Такой страницы нет."}],["$","$L6",null,{"className":"button primary","href":"/","children":"На главную"}]]}],null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,null],["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vWbOrXienqicRFYYdX6dC"}
+a:C
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[6869,[],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"Кирилл Кузнецов — агент по недвижимости"}],["$","meta","1",{"name":"description","content":"Продажа и покупка недвижимости в Москве и Новой Москве. Оценка, переговоры и полное сопровождение сделки."}],["$","meta","2",{"property":"og:title","content":"Кирилл Кузнецов — недвижимость"}],["$","meta","3",{"property":"og:description","content":"Продажа и покупка недвижимости в Москве и Новой Москве."}],["$","meta","4",{"property":"og:locale","content":"ru_RU"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Кирилл Кузнецов — недвижимость"}],["$","meta","8",{"name":"twitter:description","content":"Продажа и покупка недвижимости в Москве и Новой Москве."}],["$","link","9",{"rel":"icon","href":"/favicon.svg"}],["$","$L10","10",{}]]

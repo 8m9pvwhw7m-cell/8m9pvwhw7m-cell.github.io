@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[2441,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","772","static/chunks/772-7a226614902f98ac.js","742","static/chunks/742-56a2b5430be9da53.js","895","static/chunks/895-f8a6e5faf14c0938.js","10","static/chunks/10-35926e97f0ed7e3f.js","329","static/chunks/app/buy/page-cc5197d54b00dbe9.js"],"BuyStory"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+a:I[6869,[],"IconMark"]
+c:I[7121,[],""]
+d:I[4581,[],""]
+11:I[7895,["500","static/chunks/500-b13bb91f5a6311b6.js","453","static/chunks/453-f5df0e1ab5da9e57.js","895","static/chunks/895-f8a6e5faf14c0938.js","177","static/chunks/app/layout-acacb69ae95368d3.js"],"SiteShell"]
+12:I[8500,["500","static/chunks/500-b13bb91f5a6311b6.js","345","static/chunks/app/not-found-95e4b15f733cad58.js"],""]
+:HL["/_next/static/css/d2d8113ff1849479.css","style"]
+7:X
+f:X
+f:C
+10:["$","style",null,{"children":".heading-mask > span,.home-line > span{transform:none!important}.hero-copy .cta-group,.header{opacity:1!important}"}]
+0:{"buildId":"vWbOrXienqicRFYYdX6dC","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Купить квартиру | Кирилл Кузнецов"}],["$","meta","1",{"name":"description","content":"Подбор квартиры, проверка рисков, переговоры и сопровождение покупки недвижимости в Москве и Новой Москве."}],["$","link","2",{"rel":"canonical","href":"https://kuznetsov-realty.ru/buy/"}],["$","meta","3",{"property":"og:title","content":"Купить квартиру — Кирилл Кузнецов"}],["$","meta","4",{"property":"og:description","content":"Подбор, проверка и полное сопровождение покупки недвижимости."}],["$","meta","5",{"property":"og:url","content":"https://kuznetsov-realty.ru/buy/"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Купить квартиру — Кирилл Кузнецов"}],["$","meta","8",{"name":"twitter:description","content":"Подбор, проверка и полное сопровождение покупки недвижимости."}],["$","link","9",{"rel":"icon","href":"/favicon.svg"}],["$","$La","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2d8113ff1849479.css","precedence":"next"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","className":"__variable_37fb3b","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$10"}],["$","$L11",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","main",null,{"id":"main","className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Такой страницы нет."}],["$","$L12",null,{"className":"button primary","href":"/","children":"На главную"}]]}],[]]}]}]]}]}]]}],"isPartial":"$@13","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+5:null
+7:300
+15:true
+7:C
+14:0
+b:"$undefined"
+e:"$undefined"
+13:"$undefined"
+6:"$undefined"
